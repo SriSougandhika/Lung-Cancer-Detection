@@ -28,8 +28,8 @@ This project focuses on building a deep learning model to detect lung cancer fro
 - Implemented using gradient-based backpropagation through the last convolutional layers
 
 ## 📈 Results
-- Achieved high accuracy and recall on lung cancer classification (Train Accuracy: 99.99%, Test Accuracy: 96.84%)
-- GradCAM visualizations confirm model focuses on cancerous tissue regions
+- Achieved high accuracy and recall on lung cancer classification (Train Accuracy: 100.00%, Test Accuracy: 97.64%)
+- GradCAM visualizations confirm the model focuses on cancerous tissue regions
 - Results provide meaningful insights into model decision-making
 
 ## 🙌 Credits
