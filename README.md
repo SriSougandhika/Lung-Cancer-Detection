@@ -6,12 +6,15 @@ This project focuses on building a deep learning model to detect lung cancer fro
 ## ✨ Features
 - Accurate lung cancer classification using convolutional neural networks (CNNs) on histopathological lung images
 - Interpretability via GradCAM, highlighting important areas in the images that lead to classification
-- Preprocessing pipeline tailored for lung cancer image data
+- Preprocessing pipeline tailored for lung cancer image data 
 - Clear visualization of GradCAM heatmaps overlayed on original images
 
 ## 🏥 Dataset
-- Lung and Colon Cancer Histopathological Images (from Kaggle)
-- Focus on lung images from the lung_aca subset
+- Lung and Colon Cancer Histopathological Images (from Kaggle) - [Link](https://www.kaggle.com/code/sinchubhat/lung-colon-cancer-histopathological-images-monk)
+- Focus on lung images from the following subsets:
+  - Lung Adenocarcinoma (lung_aca)
+  - Lung Squamous Cell Carcinoma (lung_scc)
+  - Benign Lung Tissue (lung_n)
 - Images are preprocessed and split into training, validation, and testing sets
 
 ## 🎯 Model Architecture
